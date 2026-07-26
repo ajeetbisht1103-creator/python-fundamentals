@@ -1,0 +1,17 @@
+# ----------------------------------------------------
+# Description:
+# This program removes duplicate
+# characters from a string while
+# preserving their first occurrence.
+# ----------------------------------------------------
+
+text = input("Enter a string: ")
+
+result = ""
+
+for ch in text:
+    if ch not in result:
+        result += ch
+
+print("String after removing duplicates:")
+print(result)
