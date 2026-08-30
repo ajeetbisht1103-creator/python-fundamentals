@@ -1,29 +1,15 @@
-````markdown
-# Python Fundamentals
-
-A structured collection of Python programs covering the core concepts of Python programming, from basic syntax and data structures to object-oriented programming, file handling, exceptions, and regular expressions.
-
-This repository is maintained as part of my **B.Tech CSE Python Programming coursework, practice, and exam preparation**.
-
----
-
 ## Repository Structure
 
 ```text
-python-fundamentals/
+python-fundamentals
 │
-├── Unit-01-Basics/
-│
-├── Unit-02-Strings/
-│
-├── Unit-03-Collections/
-│
-├── Unit-04-Functions-and-Recursion/
-│
-├── Unit-05-Object-Oriented-Programming/
-│
-└── Unit-06-Files-Exceptions-and-Regular-Expressions/
-````
+├── Unit-01-Basics
+├── Unit-02-Strings
+├── Unit-03-Collections
+├── Unit-04-Functions-and-Recursion
+├── Unit-05-Object-Oriented-Programming
+└── Unit-06-Files-Exceptions-and-Regular-Expressions
+```
 
 ---
 
