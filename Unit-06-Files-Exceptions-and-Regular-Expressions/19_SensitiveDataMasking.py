@@ -16,4 +16,4 @@ masked_text = re.sub(email_pattern, "[EMAIL HIDDEN]", text)
 masked_text = re.sub(phone_pattern, "[PHONE HIDDEN]", masked_text)
 
 print("\n----- Masked Text -----")
-print(masked_text)
+print(masked_text )
