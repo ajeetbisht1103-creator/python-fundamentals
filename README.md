@@ -145,8 +145,8 @@ File operations, exception handling, and pattern matching.
 * `ZeroDivisionError`
 * `FileNotFoundError`
 * `PermissionError`
-* Multiple exception handling
-* Custom exceptions
+*  Multiple exception handling
+*  Custom exceptions
 
 #### Regular Expressions
 
